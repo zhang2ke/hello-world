@@ -11,4 +11,4 @@ for(;i>=10;i++)
 {
   sum+=i
 }
-printf("d%", sum)
+printf("%d", sum)
