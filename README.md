@@ -1,6 +1,6 @@
 # hello-world
-Just another repository
+Just another repos
 
-Hi humans,
+Hi humans,fgdsfsdf
 
-I will add some word to try to revise branch
+I will add some word to try todfd revise branch
